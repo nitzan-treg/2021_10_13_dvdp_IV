@@ -1,8 +1,7 @@
-#  Davidope III
-This project is very much inspired by davidope's art
+#  Davidope IV
+This project is very much inspired by davidope's art https://www.instagram.com/dvdp/
 
-It's an experiment, what happens when you rotate a position vector after you convert it to polar coordinates? obviously, it doesn't make a lot of sense, but the results are beautiful.
+The setup transforms points in a circular pattern, projects them on the XY plane and then uses them to create Voronoi patterns
 
-<img src="Deform_VOP.png">
+<img alt = "gif" src="Images/2021_10_13_dvdp_IV.gif">
 <img src="Images/Node Tree.png">
-<p><img alt = "gif" src="Images/2021_10_12_dvdp_III.gif"></code>
